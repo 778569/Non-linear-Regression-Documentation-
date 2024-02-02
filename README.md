@@ -15,7 +15,8 @@ Non-linear regression is a statistical method to model complex relationships bet
 * How choose the degree of the polynomial
 * Parameters and Hyper parameters
 * Under fitting models<br><br>
-![image](https://github.com/778569/Non-linear-Regression-Documentation-/assets/52319671/7a31102c-c8e2-4b57-a9d4-8dc89a95b704)<br><br>
+![image](https://github.com/778569/Non-linear-Regression-Documentation-/assets/52319671/841e6cb7-d700-4107-856b-ceb6325f16c2)<br><br>
+
 ![image](https://github.com/778569/Non-linear-Regression-Documentation-/assets/52319671/c1065030-bc7f-456c-a83d-253885ef75e5)<br><br>
 
 
